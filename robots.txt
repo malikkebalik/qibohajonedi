@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://qibohajonedi.pages.dev/sitemap.xml
